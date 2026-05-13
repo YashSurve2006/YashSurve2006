@@ -16,7 +16,7 @@ Full Stack Developer • Computer Science Student • Backend Enthusiast
 <img src="https://img.shields.io/github/stars/YashSurve2006?label=Stars&style=for-the-badge" />
 </p>
 
----
+ 
 
 # 🚀 About Me
 
@@ -33,7 +33,7 @@ Full Stack Developer • Computer Science Student • Backend Enthusiast
 ⚡ Passionate about solving real-world problems using technology
 
 
----
+ 
 # 🧰 Tech Stack & Tools
 
 ## 🎨 Frontend Development
@@ -46,7 +46,7 @@ Technologies:
 
 HTML • CSS • JavaScript • React • Bootstrap • Tailwind CSS
 
----
+ 
 
 ## ⚙️ Backend Development
 
@@ -58,7 +58,7 @@ Technologies:
 
 Node.js • Express.js • REST APIs • JWT Authentication • Java
 
----
+ 
 
 ## 🗄️ Database Systems
 
@@ -70,7 +70,7 @@ Technologies:
 
 MySQL • MongoDB • Oracle • PL/SQL
 
----
+ 
 
 ## 🔧 DevOps & Tools
 
@@ -82,7 +82,7 @@ Technologies:
 
 Git • GitHub • VS Code • Postman • Linux • Docker
 
----
+ 
 
 ## 🌐 Networking & Infrastructure
 
@@ -96,7 +96,7 @@ Git • GitHub • VS Code • Postman • Linux • Docker
 <img src="https://img.shields.io/badge/Network-Design-purple?style=for-the-badge" />
 </p>
 
----
+ 
 
 ## 🧠 Core Concepts
 
@@ -113,7 +113,7 @@ Git • GitHub • VS Code • Postman • Linux • Docker
 • Authentication & Authorization
 
 
----
+ 
 
 # 🔥 Featured Projects
 
@@ -139,7 +139,7 @@ Tech Stack:
 
 Node.js • MongoDB • Socket.IO • AI Integration
 
----
+ 
 
 ## 📦 Inventory Management System — Full Stack Business Application
 
@@ -158,7 +158,27 @@ Tech Stack:
 
 React • Node.js • Express • MySQL
 
----
+ 
+
+## 🎓 Smart Campus Hub — AI-Powered Enterprise University ERP Platform
+
+🔗 Repository
+[https://github.com/YashSurve2006/smart-campus-hub](https://github.com/YashSurve2006/smart-campus-hub)
+
+**Key Features:**
+
+• Multi-role dashboards for Students, Faculty, and Administrators
+• Realtime notifications, announcements, and campus communication
+• Attendance tracking, result management, notices, and event workflows
+• Secure JWT authentication with role-based access control (RBAC)
+• Scalable REST API architecture with realtime Socket.IO infrastructure
+• Premium full-stack SaaS-style university management experience
+• Academic workflow automation with centralized campus operations
+
+**Tech Stack:**
+
+React • Node.js • Express.js • MySQL • Socket.IO • JWT • Tailwind CSS • REST API • Docker
+
 
 ## 🎓 Student Result Portal — Oracle + Node.js System
 
@@ -177,7 +197,7 @@ Tech Stack:
 
 Node.js • Oracle • PL/SQL • REST API
 
----
+ 
 
 ## 🌐 Enterprise Cisco Network Infrastructure — Network Engineering Project
 
@@ -196,7 +216,7 @@ Tech Stack:
 
 Cisco Packet Tracer • Networking • Routing • VLAN
 
----
+ 
 
 ## ☕ Java Inventory Management System — Enterprise Web Application
 
@@ -215,7 +235,7 @@ Tech Stack:
 
 Java • JSP • Servlets • MySQL • Tomcat
 
----
+ 
 
 ## 🌐 Portfolio Website
 
@@ -233,7 +253,7 @@ Tech Stack:
 
 HTML • CSS • JavaScript
 
----
+ 
 
 # 📊 GitHub Analytics
 
@@ -251,7 +271,7 @@ HTML • CSS • JavaScript
 
 </p>
 
----
+ 
 
 # 📈 Contribution Activity
 
@@ -259,7 +279,7 @@ HTML • CSS • JavaScript
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSurve2006&theme=tokyo-night" />
 </p>
 
----
+ 
 
 # 🎯 Current Focus
 
@@ -268,7 +288,7 @@ HTML • CSS • JavaScript
 • System Design
 • Mobile App Development
 
----
+ 
 
 # 📫 Connect With Me
 
@@ -292,7 +312,7 @@ HTML • CSS • JavaScript
 
 </p>
 
----
+ 
 
 # 🏆 Achievements
 
@@ -307,7 +327,7 @@ HTML • CSS • JavaScript
 🏅 Experience with real-world production systems
 
 
----
+ 
 
 <p align="center">
 
@@ -315,7 +335,7 @@ HTML • CSS • JavaScript
 
 </p>
 
----
+ 
 
 ⭐ From
 https://github.com/YashSurve2006
