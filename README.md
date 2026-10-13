@@ -255,6 +255,45 @@ HTML • CSS • JavaScript
 
  
 
+
+## 🎮 NEON QUEST — Browser-Based Platformer Game
+
+🔗 Repository: https://github.com/YashSurve2006/NEON-QUEST
+
+A neon-themed 2D platformer built with vanilla JavaScript and HTML5 Canvas, featuring endless mode, a three-level campaign, a Stone Golem boss fight, procedural audio, keyboard/gamepad/touch controls, local high scores, and installable PWA support with offline caching.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript • Canvas 2D • Web Audio API • PWA
+
+## 🛠️ FixFlow — Enterprise Service Management Platform
+
+🔗 Repository: https://github.com/YashSurve2006/FixFlow-Enterprise-Service-Management
+
+A service-request and workflow management platform for tracking issues from submission through assignment, progress, resolution, and closure. Includes JWT authentication, BCrypt password hashing, role-based access for users, technicians and administrators, filtering, pagination, and analytics.
+
+**Tech Stack:** Java 21 • Jakarta REST (JAX-RS) • MySQL • JWT • Apache Tomcat
+
+## 🤖 Lumina — AI HR Assistant
+
+🔗 Repository: https://github.com/YashSurve2006/AI-HR-Assistant
+
+An AI-assisted HR web application with an NLP FAQ chatbot, resume parsing and skill extraction, ATS-style scoring, TF-IDF job recommendations, employee-feedback sentiment analysis, and interactive analytics dashboards.
+
+**Tech Stack:** Python • Flask • scikit-learn • NLTK • VADER • Pandas • JavaScript • Chart.js
+
+## 🏋️ Gym Website — Membership Management UI
+
+🔗 Repository: https://github.com/YashSurve2006/Gym-Website
+
+A client-side gym website with a services and membership home page, login interface, administrative user-management panel, and member dashboard for viewing and updating membership status.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript
+
+## 📚 Additional Public Repositories
+
+- [Yashsurve5143 — Legacy Profile README](https://github.com/YashSurve2006/Yashsurve5143) — an earlier developer profile covering foundational web development, Python, SQL, R, and AutoCAD interests.
+- [Skills Introduction to GitHub](https://github.com/YashSurve2006/skills-introduction-to-github) — GitHub Skills learning repository for practicing GitHub workflows.
+
+
 # 📊 GitHub Analytics
 
 <p align="center">
