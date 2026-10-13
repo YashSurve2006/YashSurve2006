@@ -1,20 +1,20 @@
 <!--
-  Yash Surve — GitHub Profile README
-  Keep project claims accurate and update the featured projects as they evolve.
+  Yash Surve | GitHub Profile README
+  Project summaries are based on repository documentation. Keep them updated as features evolve.
 -->
 
 <div align="center">
 
-# Hi, I'm Yash Surve 👋
+# Hey, I'm Yash Surve 👋
 
-### Computer Science Student · Full-Stack Developer · Backend & Systems Enthusiast
+### Computer Science Student | Full-Stack Developer | Backend & Systems Enthusiast
 
-I build practical web applications, backend APIs, AI-assisted tools, browser games, and networking projects.
+**I turn ideas into working software** — from full-stack platforms and backend APIs to AI-assisted applications, browser games, and network infrastructure labs.
 
 <p>
-  <a href="https://yashsurve2006.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/yash-surve-535954288"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:yashsurve2019@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://yashsurve2006.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yash-surve-535954288"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:yashsurve2019@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=YashSurve2006&style=flat-square&color=2563eb&label=PROFILE+VIEWS" alt="Profile views">
@@ -26,13 +26,13 @@ I build practical web applications, backend APIs, AI-assisted tools, browser gam
 ## 👨‍💻 About Me
 
 - 🎓 Computer Science student at **Pillai College of Arts, Commerce and Science**.
-- 🧩 Interested in **full-stack development, backend engineering, databases, and system design**.
-- 🛠️ Build projects with React, Node.js, Express, Java, Python, MySQL, MongoDB, and Oracle.
-- 🔐 Explore authentication, REST APIs, role-based access control, and application security.
-- 🌐 Also work on Cisco networking labs, Linux, and infrastructure fundamentals.
-- 📱 Exploring mobile application development and improving my software engineering practices.
+- 💻 Interested in building complete applications — from intuitive interfaces to APIs, business logic, and database integration.
+- ⚙️ Enjoy working with backend development, REST APIs, authentication, data modelling, and application workflows.
+- 🤖 Explore practical AI/NLP features, including conversational interfaces, resume analysis, and sentiment analysis.
+- 🌐 Also build networking labs with Cisco Packet Tracer and develop my Linux and infrastructure skills.
+- 📱 Currently exploring mobile development and continuing to strengthen my software engineering fundamentals.
 
-I learn by building: designing features, connecting frontends to APIs and databases, debugging issues, and documenting how projects work.
+My approach is hands-on: build a feature, connect the moving parts, test the workflow, investigate issues, and document how the project runs.
 
 ## 🧰 Technology Stack
 
@@ -50,83 +50,173 @@ I learn by building: designing features, connecting frontends to APIs and databa
 | **Networking** | Cisco Packet Tracer, VLANs, inter-VLAN routing, RIP v2, DHCP |
 | **Other areas** | HTML5 Canvas, browser game development, NLP fundamentals, data analysis |
 
-*Technologies listed reflect tools used across my projects and learning work; depth of experience varies by technology.*
+*My experience varies by technology; the projects below show where I have applied these tools.*
 
 ---
 
 ## 🚀 Featured Projects
 
-These projects show different areas I enjoy building: full-stack applications, AI-assisted tools, games, enterprise workflows, and networking.
+A closer look at selected projects, the problems they explore, and the engineering concepts behind them.
 
 ### 🎓 [Smart Campus Hub](https://github.com/YashSurve2006/smart-campus-hub)
-A campus-management application focused on connecting student, faculty, and administrator workflows.
+**A unified campus-management and academic workflow platform**
 
-**Highlights:** Role-based dashboards, attendance and results workflows, announcements, notifications, and centralized campus operations.
+Smart Campus Hub brings common university workflows into one application, with separate experiences for students, faculty, and administrators. It explores how academic operations and campus communication can be organized through a shared digital platform.
 
-**Stack:** React · Node.js · Express · MySQL · Socket.IO · JWT · Tailwind CSS · Docker
+- **What it does:** Provides role-oriented dashboards and workflows for attendance, results, notices, events, announcements, and campus communication.
+- **Engineering focus:** Authentication and role-based access, REST API design, database-backed workflows, and real-time updates.
+- **Why it stands out:** Connects multiple user roles and academic processes instead of treating each feature as a disconnected page.
+
+**Stack:** React · Vite · Node.js · Express · MySQL · Socket.IO · JWT · Tailwind CSS · Docker
+
+[Explore the repository →](https://github.com/YashSurve2006/smart-campus-hub)
+
+---
 
 ### 🤖 [AI Chat Assistant Pro](https://github.com/YashSurve2006/ai-chat-assistant-pro)
-A real-time chat application with AI response streaming and user authentication.
+**A real-time conversational AI application with local LLM integration**
 
-**Highlights:** Socket.IO messaging, streaming AI responses, authentication, database integration, and a responsive interface.
+This project explores the application architecture behind a chat experience: user sessions, streamed model responses, persistent conversations, and supporting backend services.
 
-**Stack:** Node.js · MongoDB · Socket.IO · AI integration
+- **AI experience:** Uses Ollama and a local Llama model for AI-generated responses, with streaming delivery.
+- **Conversation workflow:** Includes authentication, session handling, and conversation/message persistence.
+- **Backend engineering:** Uses Redis caching, rate limiting, input validation, logging, and Docker-oriented setup.
+
+**Stack:** Node.js · Express · MongoDB · Redis · Ollama · Llama · Server-Sent Events · JWT · Docker
+
+[Explore the repository →](https://github.com/YashSurve2006/ai-chat-assistant-pro)
+
+---
 
 ### 🎮 [NEON QUEST](https://github.com/YashSurve2006/NEON-QUEST)
-A neon-themed browser platformer with a campaign mode and arcade-style gameplay.
+**A neon-themed browser platformer built without a game framework**
 
-**Highlights:** Three campaign levels, boss encounter, movement mechanics, hazards, coins, high scores, audio, touch/gamepad controls, and PWA/offline support.
+NEON QUEST combines arcade-style action with custom gameplay logic, procedural visuals, and browser-native technologies. It runs in a modern browser and supports desktop, mobile, and gamepad controls.
 
-**Stack:** HTML5 · CSS3 · JavaScript · Canvas 2D · Web Audio API · PWA
+- **Game modes:** Endless runs plus a three-level hand-built campaign and a Stone Golem boss encounter.
+- **Gameplay systems:** Variable-height jumping, coyote time, jump buffering, dash mechanics, moving and crumbling platforms, hazards, checkpoints, and scoring bonuses.
+- **Custom presentation:** Canvas-rendered environments and effects, procedural music and sound, menus, settings, local high scores, and saved progress.
+- **Browser features:** Touch controls, Gamepad API support, and PWA/offline functionality.
+
+**Stack:** HTML5 · CSS3 · Vanilla JavaScript · Canvas 2D · Web Audio API · LocalStorage · Gamepad API · Service Worker
+
+[Explore the repository →](https://github.com/YashSurve2006/NEON-QUEST)
+
+---
 
 ### 🛠️ [FixFlow — Enterprise Service Management](https://github.com/YashSurve2006/FixFlow-Enterprise-Service-Management)
-A service-request workflow application that tracks requests through assignment, progress, resolution, and closure.
+**A structured service-request and technician workflow system**
 
-**Highlights:** Authentication, user/technician/admin roles, request management, filtering, pagination, and analytics.
+FixFlow models the lifecycle of service and maintenance requests, helping make request ownership, priority, status, and resolution easier to track.
 
-**Stack:** Java 21 · Jakarta REST · MySQL · JWT · Apache Tomcat
+- **Request lifecycle:** Create and manage requests with priorities, categories, locations, and status changes.
+- **Role-aware access:** Separate permissions for users, technicians, and administrators.
+- **Workflow visibility:** Tracks requests through pending, assigned, in-progress, resolved, and closed states.
+- **Administration and APIs:** Includes user/technician management, analytics, search, filtering, sorting, pagination, and an API testing console.
 
-### 📦 [Inventory Management Website](https://github.com/YashSurve2006/Inventory-Management-Website)
-A full-stack inventory application for managing products, suppliers, and order workflows.
+**Stack:** Java 21 · Jakarta REST (JAX-RS) · MySQL 8 · JWT · BCrypt · Apache Tomcat · HTML · CSS · JavaScript
 
-**Highlights:** Product and supplier management, dashboard analytics, authentication, and REST API integration.
+[Explore the repository →](https://github.com/YashSurve2006/FixFlow-Enterprise-Service-Management)
 
-**Stack:** React · Node.js · Express · MySQL
+---
+
+### 📦 [InventoryX — Inventory Management & PC Builder](https://github.com/YashSurve2006/Inventory-Management-Website)
+**A full-stack business application that combines inventory workflows with PC configuration**
+
+InventoryX explores the connection between product and stock management, customer orders, admin operations, and a hardware compatibility workflow.
+
+- **Inventory operations:** Product and supplier management, stock visibility, low-stock alerts, and reporting.
+- **Customer workflow:** Product browsing, cart management, order placement, order tracking, and cancellation.
+- **Admin experience:** Product lifecycle management, stock monitoring, supplier and transaction handling, and dashboard analytics.
+- **PC Builder:** Supports component-based builds and checks CPU/motherboard socket compatibility, RAM/motherboard type compatibility, and PSU wattage sufficiency.
+
+**Stack:** React · Vite · React Router · Node.js · Express · MySQL · JWT · bcrypt · Axios · Context API
+
+[Explore the repository →](https://github.com/YashSurve2006/Inventory-Management-Website)
+
+---
 
 ### 🧠 [Lumina — AI HR Assistant](https://github.com/YashSurve2006/AI-HR-Assistant)
-An HR-focused application combining natural-language processing with resume and feedback analysis.
+**An HR-focused application combining NLP, resume analysis, and data visualization**
 
-**Highlights:** HR FAQ chatbot, resume parsing, skill extraction, ATS-style scoring, job recommendations, and sentiment analysis.
+Lumina brings several HR-oriented tools into one interface, demonstrating how text processing and data analysis can support common candidate and employee workflows.
 
-**Stack:** Python · Flask · scikit-learn · NLTK · VADER · Pandas · JavaScript · Chart.js
+- **HR chatbot:** Uses an NLP pipeline to match questions against an HR FAQ dataset.
+- **Resume analysis:** Extracts resume text from PDF and Word documents, identifies technical skills, and presents an ATS-style score.
+- **Job discovery:** Uses TF-IDF ranking for recommendations and provides links to external job-search platforms.
+- **Feedback insights:** Applies VADER sentiment analysis to employee feedback and visualizes results in interactive dashboards.
+- **Interface:** Responsive glassmorphism styling with light/dark themes and Chart.js visualizations.
+
+**Stack:** Python · Flask · scikit-learn · NLTK · VADER · Pandas · PyPDF2 · JavaScript · Chart.js · Playwright
+
+[Explore the repository →](https://github.com/YashSurve2006/AI-HR-Assistant)
+
+---
 
 ### 🌐 [Enterprise Cisco Network Infrastructure](https://github.com/YashSurve2006/enterprise-cisco-network-infrastructure)
-A networking project documenting enterprise-style topology and configuration concepts.
+**A multi-router, multi-VLAN enterprise network simulation**
 
-**Highlights:** VLAN segmentation, Router-on-a-Stick, RIP v2, DHCP, and network design.
+This Packet Tracer project focuses on the configuration and validation of a segmented network with dynamic routing and automatic IP address assignment.
 
-**Tools:** Cisco Packet Tracer · Routing · Switching
+- **Topology:** Uses multiple edge/core routers, Layer 2 switches, VLANs, and end devices.
+- **Segmentation and routing:** Implements VLAN separation, Router-on-a-Stick inter-VLAN routing, and RIP v2.
+- **Address management:** Includes subnet planning and DHCP configuration for local networks.
+- **Validation:** Documents connectivity checks, DHCP assignment, inter-VLAN communication, and routing-table verification.
+
+**Tools & concepts:** Cisco Packet Tracer · VLANs · Routing · Switching · RIP v2 · DHCP · Subnetting
+
+[Explore the repository →](https://github.com/YashSurve2006/enterprise-cisco-network-infrastructure)
+
+---
+
+## 🧩 More Projects
+
+### ☕ [Java Inventory Management System](https://github.com/YashSurve2006/java-inventory-management-system)
+A Java web application for managing products, suppliers, purchases, and sales. It includes admin login, CRUD operations, stock updates, purchase and sales history, dashboard summaries, and profit calculation.
+
+**Stack:** Java · JSP · Servlets · JDBC · MySQL · Apache Tomcat · NetBeans
+
+### 🎓 [Student Result Portal — Oracle + Node.js](https://github.com/YashSurve2006/student-result-portal-oracle-nodejs)
+A database-driven student result application that connects a Node.js API layer with Oracle database logic for retrieving academic results. It demonstrates backend integration, relational data handling, and PL/SQL-based operations.
+
+**Stack:** Node.js · Oracle Database · PL/SQL · REST APIs
+
+### 🏋️ [Gym Website](https://github.com/YashSurve2006/Gym-Website)
+A client-side gym membership website prototype with a home page, login interface, admin panel for managing registered users, and a member dashboard for viewing and updating membership details. This is a front-end simulation rather than a production authentication service.
+
+**Stack:** HTML5 · CSS3 · JavaScript
+
+### 🌐 [Personal Portfolio Website](https://github.com/YashSurve2006/yashsurve2006.github.io)
+My personal website for introducing my background, presenting selected projects, and making my work and professional links easier to discover.
+
+**Stack:** HTML · CSS · JavaScript
+
+### 📘 [GitHub Skills — Introduction to GitHub](https://github.com/YashSurve2006/skills-introduction-to-github)
+A learning repository used to practice GitHub fundamentals and repository workflows.
+
+### 🗂️ [Yashsurve5143 — Earlier Profile Repository](https://github.com/YashSurve2006/Yashsurve5143)
+An earlier profile/learning repository that reflects foundational interests in web development, Python, SQL, R, and AutoCAD.
 
 ---
 
 ## 📚 All Public Repositories
 
-Browse the complete public project list below. Smaller learning and academic repositories are included for completeness.
+Every public repository below is included for easy discovery, including smaller learning projects.
 
-| Repository | What it covers |
+| Repository | Focus |
 |---|---|
-| [AI Chat Assistant Pro](https://github.com/YashSurve2006/ai-chat-assistant-pro) | Real-time AI chat application |
-| [AI-HR-Assistant](https://github.com/YashSurve2006/AI-HR-Assistant) | NLP, resume analysis, recommendations, and sentiment analysis |
-| [FixFlow-Enterprise-Service-Management](https://github.com/YashSurve2006/FixFlow-Enterprise-Service-Management) | Service request and workflow management |
-| [NEON-QUEST](https://github.com/YashSurve2006/NEON-QUEST) | Browser-based 2D platformer game |
-| [smart-campus-hub](https://github.com/YashSurve2006/smart-campus-hub) | Campus management workflows |
-| [Inventory-Management-Website](https://github.com/YashSurve2006/Inventory-Management-Website) | Full-stack inventory management |
-| [java-inventory-management-system](https://github.com/YashSurve2006/java-inventory-management-system) | Java, JSP/Servlets, MySQL, and Tomcat |
-| [student-result-portal-oracle-nodejs](https://github.com/YashSurve2006/student-result-portal-oracle-nodejs) | Student result portal with Oracle and Node.js |
-| [enterprise-cisco-network-infrastructure](https://github.com/YashSurve2006/enterprise-cisco-network-infrastructure) | Cisco networking, routing, VLANs, and DHCP |
-| [Gym-Website](https://github.com/YashSurve2006/Gym-Website) | Gym website and membership UI prototype |
-| [yashsurve2006.github.io](https://github.com/YashSurve2006/yashsurve2006.github.io) | Personal portfolio website |
-| [skills-introduction-to-github](https://github.com/YashSurve2006/skills-introduction-to-github) | GitHub Skills learning exercise |
+| [smart-campus-hub](https://github.com/YashSurve2006/smart-campus-hub) | Campus workflows and academic management |
+| [ai-chat-assistant-pro](https://github.com/YashSurve2006/ai-chat-assistant-pro) | Streaming conversational AI and local LLMs |
+| [NEON-QUEST](https://github.com/YashSurve2006/NEON-QUEST) | Browser platformer game |
+| [FixFlow-Enterprise-Service-Management](https://github.com/YashSurve2006/FixFlow-Enterprise-Service-Management) | Service request and technician workflows |
+| [Inventory-Management-Website](https://github.com/YashSurve2006/Inventory-Management-Website) | Inventory management and PC Builder |
+| [AI-HR-Assistant](https://github.com/YashSurve2006/AI-HR-Assistant) | HR chatbot, resume analysis, sentiment insights |
+| [enterprise-cisco-network-infrastructure](https://github.com/YashSurve2006/enterprise-cisco-network-infrastructure) | Cisco network simulation |
+| [java-inventory-management-system](https://github.com/YashSurve2006/java-inventory-management-system) | Java web-based inventory system |
+| [student-result-portal-oracle-nodejs](https://github.com/YashSurve2006/student-result-portal-oracle-nodejs) | Oracle-backed student result portal |
+| [Gym-Website](https://github.com/YashSurve2006/Gym-Website) | Gym membership website prototype |
+| [yashsurve2006.github.io](https://github.com/YashSurve2006/yashsurve2006.github.io) | Personal portfolio |
+| [skills-introduction-to-github](https://github.com/YashSurve2006/skills-introduction-to-github) | GitHub Skills exercise |
 | [Yashsurve5143](https://github.com/YashSurve2006/Yashsurve5143) | Earlier profile/learning repository |
 
 ---
@@ -142,20 +232,18 @@ Browse the complete public project list below. Smaller learning and academic rep
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashSurve2006&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph">
 </div>
 
-*Statistics and language charts are generated by third-party services and may occasionally be unavailable or may not represent every repository.*
+*Statistics and language charts use third-party services and may occasionally be unavailable or may not represent every repository.*
 
----
+## 🎯 What I'm Focusing On
 
-## 🎯 Current Focus
-
-- Building maintainable full-stack applications and reliable REST APIs.
-- Strengthening backend architecture, database design, and authentication.
-- Improving Linux, Docker, and deployment fundamentals.
-- Practicing networking concepts and exploring mobile development.
+- Designing maintainable full-stack applications and well-structured REST APIs.
+- Strengthening backend architecture, database design, authentication, and application security.
+- Improving Linux, Docker, deployment, and troubleshooting skills.
+- Exploring mobile development while continuing to build practical software projects.
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, learning from open-source projects, and collaborating on useful software.
+I'm always interested in learning from other developers, exploring open-source work, and collaborating on useful software projects.
 
 <p align="center">
   <a href="https://github.com/YashSurve2006">GitHub</a> ·
@@ -164,10 +252,8 @@ I'm interested in connecting with developers, learning from open-source projects
   <a href="mailto:yashsurve2019@gmail.com">Email</a>
 </p>
 
----
-
 <div align="center">
 
-**Thanks for visiting my profile!** ⭐
+**Thanks for stopping by — feel free to explore my repositories!** ⭐
 
 </div>
