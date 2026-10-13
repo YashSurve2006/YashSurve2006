@@ -58,6 +58,25 @@ My approach is hands-on: build a feature, connect the moving parts, test the wor
 
 A closer look at selected projects, the problems they explore, and the engineering concepts behind them.
 
+### 🎙️ [Mark-LV — Autonomous Voice AI & Desktop Automation](https://github.com/YashSurve2006/Mark-LV)
+**A cross-platform personal voice assistant that connects real-time Gemini Live conversation with desktop control**
+
+Mark-LV combines bidirectional voice interaction with practical computer automation through a PyQt6 heads-up display. The README documents browser and desktop actions, screen-aware interaction, an autonomous coding helper, and a fallback ladder across Gemini models.
+
+- **Voice-first interface:** Gemini Live audio streaming, push-to-talk and wake-word controls, voice selection, and a reactive holographic HUD.
+- **Computer & browser automation:** Interacts with the active Chrome workspace, navigates PDF pages, switches tabs, controls windows, and performs desktop actions.
+- **Developer assistant:** Can draft multi-file projects, run tests, and open workspaces in supported IDEs.
+- **Cross-platform setup:** Python 3.11+ with setup guidance for Windows, macOS, and Linux; microphone and Gemini API key required.
+- **Safety-oriented controls:** Includes an undo stack and confirmation prompts for selected irreversible system actions.
+
+**Stack:** Python · PyQt6 · Google Gemini Live API · Playwright · Desktop/Browser Automation
+
+[Explore Mark-LV →](https://github.com/YashSurve2006/Mark-LV)
+
+---
+
+
+
 ### 🎓 [Smart Campus Hub](https://github.com/YashSurve2006/smart-campus-hub)
 **A unified campus-management and academic workflow platform**
 
@@ -205,6 +224,7 @@ Every public repository below is included for easy discovery, including smaller 
 
 | Repository | Focus |
 |---|---|
+| [Mark-LV](https://github.com/YashSurve2006/Mark-LV) | Gemini Live voice AI and cross-platform desktop automation |
 | [smart-campus-hub](https://github.com/YashSurve2006/smart-campus-hub) | Campus workflows and academic management |
 | [ai-chat-assistant-pro](https://github.com/YashSurve2006/ai-chat-assistant-pro) | Streaming conversational AI and local LLMs |
 | [NEON-QUEST](https://github.com/YashSurve2006/NEON-QUEST) | Browser platformer game |
