@@ -17,7 +17,7 @@
   <a href="mailto:yashsurve2019@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=YashSurve2006&style=for-the-badge&color=0e75b6&label=PROFILE%20VIEWS)
+![Profile views](https://views-counter.vercel.app/badge?pageId=YashSurve2006%2FYashSurve2006)
 
 </div>
 
