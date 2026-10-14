@@ -17,7 +17,7 @@
   <a href="mailto:yashsurve2019@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YashSurve2006" alt="Profile views">
+![Profile views](https://komarev.com/ghpvc/?username=YashSurve2006&style=for-the-badge&color=0e75b6&label=PROFILE%20VIEWS)
 
 </div>
 
@@ -74,8 +74,6 @@ Mark-LV combines bidirectional voice interaction with practical computer automat
 [Explore Mark-LV →](https://github.com/YashSurve2006/Mark-LV)
 
 ---
-
-
 
 ### 🎓 [Smart Campus Hub](https://github.com/YashSurve2006/smart-campus-hub)
 **A unified campus-management and academic workflow platform**
