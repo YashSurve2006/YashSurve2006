@@ -37,7 +37,7 @@ My approach is hands-on: build a feature, connect the moving parts, test the wor
 ## 🧰 Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,nodejs,express,java,python,mysql,mongodb,oracle,git,github,vscode,postman,linux,docker" alt="Technology stack icons">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,reactnative,expo,typescript,sqlite,bootstrap,tailwind,nodejs,express,java,python,mysql,mongodb,oracle,git,github,vscode,postman,linux,docker" alt="Technology stack icons">
 </p>
 
 | Area | Technologies |
@@ -57,6 +57,23 @@ My approach is hands-on: build a feature, connect the moving parts, test the wor
 ## 🚀 Featured Projects
 
 A closer look at selected projects, the problems they explore, and the engineering concepts behind them.
+
+### 📱 [TripMate — Offline Expense Splitting & Trip Management](https://github.com/YashSurve2006/tripmate)
+**An offline-first Android app for managing group trips, shared expenses, and settlements**
+
+TripMate helps friends organize trip spending without depending on a hosted service for its core workflows. It stores group and expense data locally, calculates splits in integer paise for precise totals, and simplifies outstanding debts into clear settlement suggestions.
+
+- **Group expense management:** Create groups, add members manually, record expenses, assign payers, and split costs among participants.
+- **Accurate balances & settlements:** Track who owes whom, record payments, and recalculate balances as settlements are completed.
+- **Local-first privacy:** Uses SQLite for on-device persistence, with receipts and documents stored locally.
+- **Excel reporting:** Exports detailed `.xlsx` workbooks with 10 worksheets covering expense ledgers, members, splits, settlements, categories, daily spending, and documents.
+- **Mobile experience:** Built with React Native and Expo, with responsive screens and light/dark theme support.
+
+**Stack:** React Native · Expo · TypeScript · SQLite · Excel/OpenXML · Android
+
+[View source code →](https://github.com/YashSurve2006/tripmate) · [Download Android APK](https://github.com/YashSurve2006/tripmate/releases/tag/v1.0.0)
+
+---
 
 ### 🎙️ [Mark-LV — Autonomous Voice AI & Desktop Automation](https://github.com/YashSurve2006/Mark-LV)
 **A cross-platform personal voice assistant that connects real-time Gemini Live conversation with desktop control**
@@ -222,6 +239,7 @@ Every public repository below is included for easy discovery, including smaller 
 
 | Repository | Focus |
 |---|---|
+| [tripmate](https://github.com/YashSurve2006/tripmate) | Offline-first Android expense splitting, group settlements, and Excel reports |
 | [Mark-LV](https://github.com/YashSurve2006/Mark-LV) | Gemini Live voice AI and cross-platform desktop automation |
 | [smart-campus-hub](https://github.com/YashSurve2006/smart-campus-hub) | Campus workflows and academic management |
 | [ai-chat-assistant-pro](https://github.com/YashSurve2006/ai-chat-assistant-pro) | Streaming conversational AI and local LLMs |
